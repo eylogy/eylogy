@@ -2,6 +2,9 @@
 - Currently an IT Student
 - I code whenever I have free time
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=eylogy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/dHTH47Jmqe) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mz.adrr) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@eylogyy) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/eylogy) 
 
@@ -18,9 +21,6 @@
 ![](https://github-readme-stats.shion.dev/api?username=eylogy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=eylogy&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=eylogy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=eylogy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=eylogy&limit=5&theme=dark&combine_all_yearly_contributions=true)
