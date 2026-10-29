@@ -1,4 +1,5 @@
 ## About Me:
+- Future Software Developer
 - Currently an IT Student
 - I code whenever I have free time
 
