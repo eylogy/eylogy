@@ -1,6 +1,6 @@
 ## About Me:
 - Future Software Developer
-- Currently an IT Student
+- Currently a 1st year IT Student
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=eylogy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
