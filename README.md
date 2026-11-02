@@ -35,7 +35,7 @@
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/39d353/eylogy" alt="Contribution graph" />
+<img src="https://ghchart.rshah.org/39d353/eylogy?v=2" alt="Contribution graph" />
 
 </div>
 
