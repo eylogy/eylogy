@@ -33,9 +33,11 @@
 
 ---
 
+## Contribution Stats
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=eylogy&theme=github-dark-blue&hide_border=true&area=true" alt="Contribution graph" />
+<img src="./dist/activity.svg" alt="Contribution graph" />
 
 </div>
 
