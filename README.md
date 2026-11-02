@@ -35,7 +35,7 @@
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/39d353/eylogy?v=2" alt="Contribution graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=eylogy&theme=github-dark-blue&hide_border=true&area=true" alt="Contribution graph" />
 
 </div>
 
