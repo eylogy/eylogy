@@ -33,6 +33,16 @@
 
 ---
 
+## Contribution Stats
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/ffffff/eylogy" alt="Contribution graph" />
+
+</div>
+
+---
+
 ## GitHub Streak
 
 <div align="center">
