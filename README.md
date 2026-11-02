@@ -33,16 +33,6 @@
 
 ---
 
-## Contribution Stats
-
-<div align="center">
-
-<img src="./dist/activity.svg" alt="Contribution graph" />
-
-</div>
-
----
-
 ## GitHub Streak
 
 <div align="center">
