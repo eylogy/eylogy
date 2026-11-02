@@ -33,16 +33,11 @@
 
 ---
 
-## GitHub Stats
+## GitHub Streak
 
 <div align="center">
 
-<img height="180" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=eylogy&show_icons=true&hide_border=true&include_all_commits=false&count_private=false&title_color=FFFFFF&text_color=BBBBBB&icon_color=FFFFFF&bg_color=0D0D0D" />
-<img height="180" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eylogy&layout=compact&hide_border=true&title_color=FFFFFF&text_color=BBBBBB&bg_color=0D0D0D" />
-
-<br/>
-
-<img height="180" alt="GitHub streak" src="https://streak-stats.demolab.com/?user=eylogy&theme=dark&hide_border=true&background=0D0D0D&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" />
+<img src="https://streak-stats.demolab.com/?user=eylogy&theme=dark&hide_border=true&background=0D0D0D&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub streak" />
 
 </div>
 
