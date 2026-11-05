@@ -6,7 +6,6 @@
   <a href="https://discord.gg/dHTH47Jmqe"><img src="https://img.shields.io/badge/Discord-000000?style=flat-square&logo=discord&logoColor=white&labelColor=1a1a1a&color=333333" alt="Discord" /></a>
   <a href="https://instagram.com/mz.adrr"><img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white&labelColor=1a1a1a&color=333333" alt="Instagram" /></a>
   <a href="https://tiktok.com/@eylogyy"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white&labelColor=1a1a1a&color=333333" alt="TikTok" /></a>
-  /></a>
 </p>
 
 </div>
