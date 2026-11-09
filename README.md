@@ -26,7 +26,6 @@
   <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=1a1a1a&color=333333" alt="C++" />
   <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1a1a1a&color=333333" alt="Java" />
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a1a&color=333333" alt="Python" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a1a&color=333333" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a&color=333333" alt="GitHub" />
 </p>
 
