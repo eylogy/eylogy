@@ -15,7 +15,7 @@
 ## About
 
 - First-year IT student
-- Aspiring UI/UX Designer
+- Aspiring Software Developer
 - Currently learning C++, Java, and Python
 
 ---
