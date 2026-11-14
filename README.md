@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+eylogy+%F0%9F%91%8B;1st+Year+IT+Student;Future+UI/UX+Desginer" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+eylogy+%F0%9F%91%8B;1st+Year+IT+Student;Future+Software+Developer" alt="Typing animation" />
 
 <p>
   <a href="https://discord.gg/dHTH47Jmqe"><img src="https://img.shields.io/badge/Discord-000000?style=flat-square&logo=discord&logoColor=white&labelColor=1a1a1a&color=333333" alt="Discord" /></a>
